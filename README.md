@@ -1,15 +1,15 @@
-# Building modular Slack apps: Getting started webinar demo project
+# 「モジュラー型の-slack-アプリの開発-始めましょう」のデモ用プロジェクト
 
-This is a project used for demonstration purposes for the Building modular Slack apps: Getting started webinar.
+「モジュラー型の-slack-アプリの開発-始めましょう」で使われるデモ用のプロジェクトです。
 
-## Clone the Template
+## テンプレートのクローン
 
-Start by cloning this repository:
+まずはこのレポジトリーをクローンしてみてください。
 
 ```zsh
-# Clone this project onto your machine
-$ slack create my-app -t wongjas/platform-101-mobile-request
+# このプロジェクトをクローンします
+$ slack create my-app -t wongjas/platform-101-mobile-request-jp
 
-# Change into the project directory
+# プロジェクトのダイレクトリーに移動します
 $ cd my-app
 ```
